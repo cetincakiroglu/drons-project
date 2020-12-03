@@ -50,9 +50,9 @@ body {
 /* CARDS COMPONENT LAYOUT */
 /* PARENT ELEMENT */
 .cards {
-  /* delete right gap in paren */
+  /* delete right gap in parent */
   margin-right: -20px;
-  /* delete bottom gap in paren */
+  /* delete bottom gap in parent */
   margin-bottom: -20px;
   display: flex;
   flex-direction: column;
